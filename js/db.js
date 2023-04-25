@@ -7,42 +7,42 @@ export default {
       detalles:
         "spacio destinado al descanso y recreacion de nuestros campers y coworkers",
       disponibilidad: "sujeto a horario",
-      img: "./images/hunters.png",
+      img: "../images/hunters.png",
     },
     {
       nombre: "Cafeteria hunters",
       detalles: "cafertia",
       disponibilidad: "sujeto a horario",
-      img: "./images/Interior-cafeteria-pasteleria-Ofelia-Bakery_1731437050_168755568_1200x675.jpg",
+      img: "../images/Interior-cafeteria-pasteleria-Ofelia-Bakery_1731437050_168755568_1200x675.jpg",
     },
     {
         nombre: "Cafeteria 8vo",
         detalles: "cafertia premiumt",
         disponibilidad: "sujeto a horario",
-        img: "./images/cafeteria 8vo.jpg",
+        img: "../images/cafeteria 8vo.jpg",
     },
     {
         nombre: "Baños",
         detalles: "Baños vip",
         disponibilidad: "sujeto a horario",
-        img: "./images/aseo.png",
+        img: "../images/aseo.png",
     },
   ],
 
   db_tienda : [
     {
         nombre: "papas",
-        img:"./images/papasmargarita.jpg",
+        img:"../images/papasmargarita.jpg",
         precio:"2000$"
     },
     {
         nombre: "pastel",
-        img:"./images/Pastel-de-Pollo7.jpg",
+        img:"../images/Pastel-de-Pollo7.jpg",
         precio:"2300$"
     },
     {
         nombre: "papas",
-        img:"./images/Color-del-cafe-filtrado-y-su-parecido-con-el-color-de-un-vino-tinto.-scaled.jpg",
+        img:"../images/Color-del-cafe-filtrado-y-su-parecido-con-el-color-de-un-vino-tinto.-scaled.jpg",
         precio:"800$"
     },
   ],
